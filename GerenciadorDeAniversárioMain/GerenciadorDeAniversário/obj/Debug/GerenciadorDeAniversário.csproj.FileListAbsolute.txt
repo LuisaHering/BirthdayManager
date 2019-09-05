@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\bin\Debug\GerenciadorDeAniversário.exe.config
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\bin\Debug\GerenciadorDeAniversário.exe
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\bin\Debug\GerenciadorDeAniversário.pdb
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\obj\Debug\GerenciadorDeAniversário.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\obj\Debug\GerenciadorDeAniversário.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\obj\Debug\GerenciadorDeAniversário.exe
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\obj\Debug\GerenciadorDeAniversário.pdb
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\bin\Debug\Dominio.dll
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\bin\Debug\Dominio.pdb
+C:\Users\Dell\Desktop\Coding College\Vitor\ReposV\GerenciadorDeAniversárioMain\GerenciadorDeAniversário\obj\Debug\GerenciadorDeAniversário.csproj.CopyComplete
